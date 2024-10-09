@@ -1,5 +1,11 @@
 # React + TypeScript + Vite
 
+Steps:
+1.clone the project npm install
+2.go to assembly.ai create an account and get your api key
+3.paste your api key in apiservices.tsx file 
+4.npm run dev , good luck
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
